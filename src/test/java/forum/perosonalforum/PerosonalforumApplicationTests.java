@@ -15,6 +15,7 @@ class PerosonalforumApplicationTests {
         log.info("this is test");
         BigDecimal bigDecimal = new BigDecimal("100");
         log.info(String.valueOf(bigDecimal.multiply(new BigDecimal("20"))));
+        log.info("this is test ");
 
     }
 
